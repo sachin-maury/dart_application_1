@@ -12,4 +12,5 @@ class A {
 void main() {
   A obj = A();
   obj.cusset = "Sachin";
+  print(obj.Cusset);
 }
